@@ -2,7 +2,7 @@
 
 ## My Name
 
-Write your name.
+Ganesh Uppananthala
 
 ## What I Learned in Foundation Month
 
